@@ -1,0 +1,25 @@
+{
+  "name": "graphql-first",
+  "version": "1.0.0",
+  "description": "playing around with graphQL",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brownj47/graphql-first.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brownj47/graphql-first/issues"
+  },
+  "homepage": "https://github.com/brownj47/graphql-first#readme",
+  "dependencies": {
+    "@apollo/server": "^4.3.0",
+    "graphql": "^16.6.0"
+  }
+}
